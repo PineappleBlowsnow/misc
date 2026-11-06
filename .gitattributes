@@ -4,3 +4,8 @@
 /.gitattributes text eol=lf
 /README.md text eol=lf
 /LICENSE text eol=lf
+/v3/encoder-volumes/*.7z.* binary -filter
+/v3/SHA256SUMS text eol=lf
+/v3/encoder.onnx.data.sha256 text eol=lf
+/v3/README.md text eol=lf
+/v3/NVIDIA_OPEN_MODEL_LICENSE.md text eol=lf

@@ -1,0 +1,12 @@
+NOTICES
+
+This Model incorporates models or materials from other models as listed below or described in the code.
+
+Model Name: nemotron-3.5-asr-streaming-0.6b
+Model license and any use restrictions: https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-open-model-license/
+
+Model Name: silero-vad
+Model license and any use restrictions: MIT License
+
+Licensed by NVIDIA Corporation under the NVIDIA Open Model License
+See NVIDIA_OPEN_MODEL_LICENSE.md for the agreement.
